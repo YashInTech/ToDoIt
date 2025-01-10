@@ -12,7 +12,7 @@ ToDoIt is a simple to-do list web application built with Vite, React, and TypeSc
 
 - **Frontend**: React, TypeScript, Vite
 - **Authentication**: Supabase
-- **Styling**: CSS (or your preferred styling method)
+- **Styling**: CSS
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ToDoIt.git
+   git clone https://github.com/YashInTech/ToDoIt.git
    ```
 
 2. Navigate into the project directory:
